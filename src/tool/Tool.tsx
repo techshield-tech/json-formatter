@@ -11,7 +11,7 @@ import {
   Toolbar,
   ToolbarDivider,
   type StatusTone,
-} from '../shell/ui';
+} from '@mmoall/tool-kit';
 import { describeJsonError, formatJsonErrorInfo } from './json-error';
 import { SAMPLE_JSON } from './sample';
 import { formatJson, minifyJson, type IndentOption } from './json-transform';
